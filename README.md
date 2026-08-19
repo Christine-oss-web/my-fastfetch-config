@@ -1,5 +1,8 @@
 # my-fastfetch-config
 
+![Rice Preview](18-08-1787154883.png)
+
+
 # ensure you have fastfetch and git installed then run 
 
 ```bash
